@@ -42,32 +42,31 @@ header{
 /* ******main****** */
 
 main {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     
 }
 .main-top {
     width: 100%;
 }
 .main-sx {
-    width: 200px;
-
-    border-width: 20px;
-    border-color: #F29E33;
+    width: 30%;
 }
 
 .main-ct {
-    width: 400px;
+    width: 40%;
 }
 .main-dx {
-    width: 200px;
+    width: 30%;
 }
+
+
 /* *****debug***** */
 .debug .main-top {
     margin-top: 10px;
-    height: 50px;
-    background-color: red;
+    height: 60px;
+    background-color: #abcfe7;
     border-bottom: solid;
-    border-color: pink;
+    border-color: #0085FE;
     border-width: 20px;
 }
 
@@ -75,18 +74,23 @@ main {
     height: 500px;
     background-color: #ABCFE7;
     border-right: solid;
-
     border-bottom: solid;
-    border-color: pink;
+    border-color: #0085FE;
     border-width: 20px;
-
-
 }
 .debug .main-ct {
     height: 500px;
-    background-color: #135480;
+    background-color: #ABCFE7;
+    border-right: solid;
+    border-bottom: solid;
+    border-color: #0085FE;
+    border-width: 20px;
+
 }
 .debug .main-dx {
     height: 500px;
-    background-color: #179737;
+    background-color: #ABCFE7;
+    border-bottom: solid;
+    border-color: #0085FE;
+    border-width: 20px;
 }
