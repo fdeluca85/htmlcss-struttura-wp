@@ -39,7 +39,54 @@ header{
     background-color: #E1D67A;
 }
 
-/* *****debug***** */
-.debug{
+/* ******main****** */
+
+main {
+    margin-bottom: 20px;
     
+}
+.main-top {
+    width: 100%;
+}
+.main-sx {
+    width: 200px;
+
+    border-width: 20px;
+    border-color: #F29E33;
+}
+
+.main-ct {
+    width: 400px;
+}
+.main-dx {
+    width: 200px;
+}
+/* *****debug***** */
+.debug .main-top {
+    margin-top: 10px;
+    height: 50px;
+    background-color: red;
+    border-bottom: solid;
+    border-color: pink;
+    border-width: 20px;
+}
+
+.debug .main-sx {
+    height: 500px;
+    background-color: #ABCFE7;
+    border-right: solid;
+
+    border-bottom: solid;
+    border-color: pink;
+    border-width: 20px;
+
+
+}
+.debug .main-ct {
+    height: 500px;
+    background-color: #135480;
+}
+.debug .main-dx {
+    height: 500px;
+    background-color: #179737;
 }
