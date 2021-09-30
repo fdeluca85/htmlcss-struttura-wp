@@ -42,8 +42,7 @@ header{
 /* ******main****** */
 
 main {
-    margin-bottom: 10px;
-    
+    margin-bottom: 10px;      
 }
 .main-top {
     width: 100%;
@@ -78,7 +77,7 @@ footer{
 
 .debug .main-sx {
     height: 500px;
-    background-color: #ABCFE7;
+    background-color: #abcfe7;
     border-right: solid;
     border-bottom: solid;
     border-color: #0085FE;
@@ -86,7 +85,7 @@ footer{
 }
 .debug .main-ct {
     height: 500px;
-    background-color: #ABCFE7;
+    background-color: #abcfe7;
     border-right: solid;
     border-bottom: solid;
     border-color: #0085FE;
@@ -95,7 +94,7 @@ footer{
 }
 .debug .main-dx {
     height: 500px;
-    background-color: #ABCFE7;
+    background-color: #abcfe7;
     border-bottom: solid;
     border-color: #0085FE;
     border-width: 20px;
